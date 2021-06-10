@@ -26,7 +26,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	background: url("images/07.jpeg") no-repeat 50% 50%;
+	background: url("images/5.jpg") no-repeat 50% 50%;
 	background-size: cover;
 	padding: 20px;
 }
@@ -46,22 +46,22 @@ body {
 }
 
 .img-1 {
-	background: url("images/001.jpg") no-repeat 50% 50%;
+	background: url("images/1.jpg") no-repeat 50% 50%;
 	background-size: cover;
 }
 
 .img-2 {
-	background: url("images/006.jpg") no-repeat 50% 50%;
+	background: url("images/4.jpg") no-repeat 50% 50%;
 	background-size: cover;
 }
 
 .img-3 {
-	background: url("images/002.jpg") no-repeat 50% 50%;
+	background: url("images/2.jpg") no-repeat 50% 50%;
 	background-size: cover;
 }
 
 .img-4 {
-	background: url("images/005.jpg") no-repeat 50% 50%;
+	background: url("images/3.jpg") no-repeat 50% 50%;
 	background-size: cover;
 }
 
